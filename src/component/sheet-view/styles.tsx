@@ -15,7 +15,7 @@ export const styles = StyleSheet.create({
     shadowRadius: 20,
     borderTopLeftRadius: 12,
     borderTopRightRadius: 12,
-    elevation: 10,
+    elevation: 24,
   },
   viewRow: {
     width: '100%',

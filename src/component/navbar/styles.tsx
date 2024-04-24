@@ -4,7 +4,6 @@ import {colors} from '../../constants';
 export const styles = StyleSheet.create({
   container: {
     backgroundColor: colors.regalBlue,
-    height: 110,
     justifyContent: 'center',
     paddingHorizontal: 25,
   },
